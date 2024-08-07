@@ -1,0 +1,82 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+*.env
+*.venv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Cache and Logs
+*.log
+*.cache
+*.egg-info/
+
+# PyTorch and Model Files
+*.pt
+*.pth
+
+# Environment and Dependency Files
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+env/
+env.bak/
+env.*
+
+# Test, Coverage, and Pytest Cache
+.coverage
+.tox/
+.cache/
+.pytest_cache/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Configurations
+.vscode/
+.idea/
+
+# Build Files
+build/
+dist/
+*.egg
+*.egg-info/
+.eggs/
+
+# Temporary Files
+*.bak
+*.swp
+*.tmp
+
+# Data Files
+data/
+*.csv
+*.hdf5
+*.npy
+*.npz
+
+# Documentation
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Additional MacOS Files
+*.DS_Store
+._*
+
+# Docker
+*.stackdump
